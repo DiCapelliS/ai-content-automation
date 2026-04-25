@@ -48,10 +48,10 @@ The following diagram represents the workflow structure:
 
 ```mermaid
 graph LR
-    A[User Input] --> B[n8n Workflow]
-    B --> C[OpenAI API]
-    C --> D[Generated Content]
-    D --> E[Storage (Database/Sheets)]
+    A[User Input] --> B(n8n)
+    B --> C(OpenAI)
+    C --> D(Output)
+    D --> E[Storage]
 ```
 
 ## Real Use Case
