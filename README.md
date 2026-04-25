@@ -44,8 +44,8 @@ User Input → n8n → OpenAI → Output → Storage
 
 ## System Architecture
 
-The following diagram represents the workflow structure:
-<img width="2752" height="1536" alt="Image_1 (2)" src="https://github.com/user-attachments/assets/c2b22d7c-a6c2-46af-b1ce-8d19798c115a" />
+<img width="1490" height="598" alt="fluxograma para github" src="https://github.com/user-attachments/assets/a6e93079-b4e2-4ea4-ad05-444d068debe4" />
+
 
 ## Real Use Case
 
