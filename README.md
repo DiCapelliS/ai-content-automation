@@ -45,14 +45,7 @@ User Input → n8n → OpenAI → Output → Storage
 ## System Architecture
 
 The following diagram represents the workflow structure:
-
-```mermaid
-graph LR
-    A[User Input] --> B(n8n)
-    B --> C(OpenAI)
-    C --> D(Output)
-    D --> E[Storage]
-```
+<img width="2752" height="1536" alt="Image_1 (2)" src="https://github.com/user-attachments/assets/c2b22d7c-a6c2-46af-b1ce-8d19798c115a" />
 
 ## Real Use Case
 
