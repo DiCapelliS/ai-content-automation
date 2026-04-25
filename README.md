@@ -44,7 +44,7 @@ User Input → n8n → OpenAI → Output → Storage
 
 ## System Architecture
 
-<img width="800" height="598" alt="fluxograma para github" src="https://github.com/user-attachments/assets/a6e93079-b4e2-4ea4-ad05-444d068debe4" />
+<img width="1490" height="598" alt="fluxograma para github" src="https://github.com/user-attachments/assets/a6e93079-b4e2-4ea4-ad05-444d068debe4" />
 
 
 ## Real Use Case
