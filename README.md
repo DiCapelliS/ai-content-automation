@@ -52,3 +52,17 @@ This system can be used by:
 - Small businesses
 
 To automate content production and reduce manual effort.
+graph LR
+    A[User Input] --> B(n8n)
+    B --> C(OpenAI)
+    C --> D(Output)
+    D --> E[Storage]
+    ### Fluxo de Integração
+
+```mermaid
+graph LR
+    A[User Input] --> B(n8n)
+    B --> C(OpenAI)
+    C --> D(Output)
+    D --> E[Storage]
+```
