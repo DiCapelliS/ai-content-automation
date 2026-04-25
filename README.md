@@ -43,7 +43,7 @@ Work in progress – initial functional version
 
 ## Author
 
-Absalão – Automation & AI Workflow Specialist
+Absalão Silva – Automation & AI Workflow Specialist
 ## Real Use Case
 
 This system can be used by:
