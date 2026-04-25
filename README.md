@@ -52,6 +52,7 @@ graph LR
     B --> C[OpenAI API]
     C --> D[Generated Content]
     D --> E[Storage (Database/Sheets)]
+```
 
 ## Real Use Case
 
