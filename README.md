@@ -50,15 +50,13 @@ This system can be used by:
 - Content creators
 - Marketing teams
 - Small businesses
+## Workflow Overview
 
-To automate content production and reduce manual effort.
-graph LR
-    A[User Input] --> B(n8n)
-    B --> C(OpenAI)
-    C --> D(Output)
-    D --> E[Storage]
-    ### Fluxo de Integração
+User Input → n8n → OpenAI → Output → Storage
+## System Architecture
 
+The following diagram represents the workflow structure:
+![System Workflow](./diagram.png)
 ```mermaid
 graph LR
     A[User Input] --> B(n8n)
