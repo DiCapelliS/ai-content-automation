@@ -66,3 +66,13 @@ graph LR
     C --> D(Output)
     D --> E[Storage]
 ```
+## Technical Details
+
+- Uses API-based communication with OpenAI
+- Modular workflow design
+- Easily extendable for multi-channel publishing
+## Challenges
+
+- Handling prompt consistency
+- Ensuring output quality
+- Designing scalable workflows
