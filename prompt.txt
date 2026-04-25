@@ -1,0 +1,7 @@
+Generate a structured Instagram post based on the following topic:
+
+- Hook
+- Main content
+- Call to action
+
+Topic: {{topic}}
