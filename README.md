@@ -60,7 +60,11 @@ This system can be used by:
 To automate content production and significantly reduce manual effort.
 
 ---
+## Input → Processing → Output
 
+**Input:** Topic or trigger  
+**Processing:** n8n workflow + AI prompt execution  
+**Output:** Structured content ready for publishing
 ## Example Output
 
 **Topic:** Productivity tips for entrepreneurs  
