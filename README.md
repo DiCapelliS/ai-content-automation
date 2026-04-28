@@ -1,4 +1,6 @@
-## AI Content Automation Workflow
+AI-powered automation system designed to generate, process, and distribute structured content with minimal human intervention.
+
+Built as a real-world workflow using n8n and OpenAI API.
 
 This project demonstrates a practical automation workflow for generating structured content using AI.
 
